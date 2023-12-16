@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 
 import { IoLocationOutline } from "react-icons/io5";
 import { AiOutlineDollar } from "react-icons/ai";
